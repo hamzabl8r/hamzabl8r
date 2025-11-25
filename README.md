@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/hamzabl8r/newPortfolio/master/public/Hamzabeji-dev.jpg" alt="Hamza Beji Software Developer Cover" width="100%"/>
+</div>
+<div align="center">
   <h1>👋 Hello there! I'm Hamza Béji</h1>
   <h3>💻 Passionate Software Engineering Student & MERN Stack Developer</h3>
 </div>
