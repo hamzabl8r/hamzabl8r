@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hamzabl8r/newPortfolio/master/public/Hamzabeji-dev.jpg" alt="Hamza Beji Software Developer Cover" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hamzabl8r/newPortfolio/master/public/Hamzabeji-dev.jpg" alt="Hamza Beji Software Developer Cover" width="50%"height="50%"/>
 </div>
 <div align="center">
   <h1>👋 Hello there! I'm Hamza Béji</h1>
