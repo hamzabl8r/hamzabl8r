@@ -52,14 +52,7 @@ I am enthusiastic about solving complex problems through efficient code and inno
 
 ---
 
-## 📈 **GitHub Statistics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzabl8r&show_icons=true&theme=buefy&hide_border=true&rank_icon=github" alt="Hamza's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabl8r&layout=compact&theme=buefy&hide_border=true" alt="Hamza's Top Languages" />
-</p>
-
----
 
 ## 📧 **Get In Touch**
 
